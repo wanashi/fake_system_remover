@@ -1,0 +1,9 @@
+body{
+  background: #000;
+  overflow:hidden;
+}
+
+pre{
+  color: #fff;
+  font: 24px;
+}
